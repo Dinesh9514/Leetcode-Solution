@@ -38,9 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
