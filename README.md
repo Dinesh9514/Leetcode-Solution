@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dinesh9514/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
